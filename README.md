@@ -1,2 +1,1 @@
-# factory
-this is factory project . html , css , jQuery
+# https://niloypaul238.github.io/factory/
